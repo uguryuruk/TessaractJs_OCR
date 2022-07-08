@@ -6,10 +6,17 @@ I had to check the Turkish exam files of nearly 33k students and wanted to compl
 
 ## HOW TO USE
 
+### CREATE FOLDERS
+awaitingOCR
+badFiles
+completedOCR
+AVGSCORE
+HIGHSCORE
+LOWSCORE
 ### OCR APP
 
 First, I have rotated all the files using Windows Photo editor.
-Then, copy them into awaitingOCR directory. (between 50kb to 1024kb)
+Then, copy them into awaitingOCR folder. (between 50kb to 1024kb)
 in the terminal,
 "node OCRApp"
 Enjoy your day! But keep an eye on it for bad image files.
