@@ -21,6 +21,7 @@ async function mainOCRFunction() {
 						console.log('Successfully moved!')
 					});
 					console.log(err);
+					return err;
 				},
 				// logger: (m) => { console.log(m); }
 			}
